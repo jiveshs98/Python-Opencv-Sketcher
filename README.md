@@ -1,2 +1,4 @@
 # opencv-sketcher
-A live sketcher built using opencv library and python 3.7
+A live sketcher built using OpenCV.
+
+You need to install Python version 3.7 and opencv library first. 
