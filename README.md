@@ -7,9 +7,9 @@ Snapshots of the window frames are given below:-
 
 ** Original Frame**
 
-![original](original.jpg)
+![original](original.JPG)
 
 
 ** Sketcher Frame **
 
-![sketch](sketch.jpg)
+![sketch](sketch.JPG)
